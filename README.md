@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ThuanBhacot
-- 👀 I’m interested in Cewek Anime
+- 🙃 Hi, I’m @ThuanBhacot
+- 🔓 programmer ❕ syber security
 
 <!---
 ThuanBhacot/ThuanBhacot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
