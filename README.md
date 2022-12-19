@@ -1,4 +1,4 @@
-- 🙃 Hi, I’m @ThuanBhacot
+- 😊 Hi, I’m @ThuanBhacot
 - 🔓 programmer ❕ syber security
 
 <!---
